@@ -52,6 +52,7 @@ URI_MONGO_DB=
 Voici une description des principaux fichiers et répertoires du projet :
 
 ### Fichiers principaux
+- `api_bdd` : Dossier composé du script python permettant d'exposer la base de données du projet.
 - `README.md` : Documentation principale du projet.
 - `requirements.txt` : Liste des dépendances nécessaires pour exécuter le projet.
 - `app.py` : Script principal pour lancer l'application Flask.
@@ -101,6 +102,7 @@ Voici une description des principaux fichiers et répertoires du projet :
 
 Pour exécuter le projet, utilisez les commandes suivantes dans votre terminal (avec l'environnement activé) :
 ```bash
+nohup uvicorn api_bdd.app:app --host 0.0.0.0 --port 5000 &
 nohup uvicorn api_lm_svc:app --host 0.0.0.0 --port 29000 &
 nohup uvicorn app:asgi_app --host 0.0.0.0 --port 8000 &
 ```

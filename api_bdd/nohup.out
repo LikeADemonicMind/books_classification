@@ -1,0 +1,85 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Utilisateur\\Documents\\api_bdd']
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     Started reloader process [14924] using StatReload
+INFO:     Started server process [21872]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:55190 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55196 - "GET /books HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'app.py'. Reloading...
+INFO:     127.0.0.1:55203 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55208 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55234 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55256 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55383 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55388 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55394 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55429 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55429 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55430 - "GET /books HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:55433 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55441 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55441 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55442 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55442 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55449 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55449 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55502 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55562 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55562 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55623 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55623 - "GET /openapi.json HTTP/1.1" 200 OK
+   Started server process [10740]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Utilisateur\\Documents\\api_bdd']
+INFO:     Uvicorn running on http://127.0.0.1:6000 (Press CTRL+C to quit)
+INFO:     Started reloader process [5168] using StatReload
+INFO:     Started server process [13148]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Started server process [5684]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50258 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50271 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50286 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50929 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50934 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50959 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51538 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51548 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51856 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54097 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54107 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54230 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54230 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     Started server process [15692]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50866 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50866 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50898 - "GET /books HTTP/1.1" 200 OK
+INFO:     Started server process [22216]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:52159 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52159 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52160 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52160 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53496 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53870 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57448 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57473 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58098 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58098 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     Started server process [18112]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:5000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:51734 - "GET /books HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52467 - "GET /books HTTP/1.1" 200 OK
