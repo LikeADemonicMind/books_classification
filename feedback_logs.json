@@ -1,0 +1,354 @@
+[
+    {
+        "timestamp": "1735923033874366100",
+        "image_path": "images\\1735923033874366100.jpg",
+        "ocr_text": "\u2018Une s\u00e9rie de meurtres terrifiants sccouc \u00celes :\n\u00c9tats-Unis. Tous suivent le m\u00eame rituel\nd'horreur, tous sont\u2019 sent d'an myst\u00e9rieux\ndragon rouge. \u201d .\nUn honune est sur une piste. hs rappelle wall\nGraham. 11 a d\u00e9j\u00e0 d\u00e9montr\u00e9-par le pass\u00e9 sa.\ncurieuse aptitude \u00c0 se mettre dans la peau des\npsychopathes, \u00e0 adopter leur point de vue, \u00e0\ndeviner leurs pulsions les plus secr\u00e8tes.\nDans cette sinistre traque, il doit rencontrer dans :\nsa prison un autre monstre : le diabolique Han-\nnibal Lecter.' Poi F Graham, commence une\nlente descente aux enfers, dans les recoins les\nplus sombres du psychisme de\u2019ces' meurtriers en\ns\u00e9rie, au risque de sy perd\u00e9e J\u00fci-in\u00eame\u2026",
+        "translated_text": "\u2018A series of terrifying murders scouc Islands: United States. All follow the same horror ritual, all of them feel like a mysterious red dragon.' A houn is on a track. hs recalls Graham Wall. 11 has already demonstrated-by the past his. curious ability to get into the skin of psychopaths, to adopt their point of view, to guess their most secret impulses. In this sinister hunt, he must encounter in: his prison another monster: the evil Han- nibal Lecter.' Poi F Graham, begins a slow descent into the underworld, in the darkest corners of the psyche of these murderers in series, at the risk of losing sy lost J\u00fci-in\u00eame...",
+        "predicted_genre": "Thriller",
+        "feedback": null
+    },
+    {
+        "timestamp": "1735923248068805600",
+        "image_path": "images\\1735923248068805600.jpg",
+        "ocr_text": "\u00c0 Une s\u00e9rie de meurtres tercifiants secoue l\u00e8s:\n\u00c9tats-Unis. Tous suivent le m\u00eame rituel\nd'horreur, tous sont sign\u00e9s d'un myst\u00e9rieux\ndragon rouge. |\n\u201cUn homme est sur une piste, Il s'appelle will\nGrahani. Il a d\u00e9j\u00e0 d\u00e9montr\u00e9 par le pass\u00e9 sa.\ncuricuse aptitude \u00e0-se mettre dans la peau des\n psychopathes, \u00e0 adopter leur point de vue, \u00e0\ndeviner leurs pulsions les plus secr\u00e8tes.\n\nDans certe sinistre traque, il doit rencontrer dans -\nsa prison un autre monstre : le diabolique Hin-\n\u2018nibal Lecter.\u2019 Pour Graham; commence une\n\u2018lente \u2018descente:aux enfers, dans les. recoins les\n\u2018plus sombres du psychisme de ces\u2019 meurtriers en",
+        "translated_text": "To a series of tercifying murders shakes it: United States. All follow the same ritual of horror, all are signed by a mysterious red dragon.: A man is on a track, He is called will Grahani. He has already demonstrated in the past his. curicuse ability to put himself in the skin of psychopaths, to adopt their point of view, to guess their most secret impulses. In some sinister hunt, he must meet in his prison another monster: the evil Hin-\u2018nibal Lecter.: For Graham; begins a \u2018slow' descent: to the underworld, in the darkest corners of the psychism of these murderers.",
+        "predicted_genre": "Thriller",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735940671062864300",
+        "image_path": "images\\1735940671062864300.jpg",
+        "ocr_text": "\u201cUne s\u00e9rie de meurtres terrifinnts secoue lesi:\n\u00c9tats-Unis. Tous suivent le m\u00eame rituel\nd'horreur, tous sont\u2019sign\u00e9s d'un myst\u00e9rieux !\ndragon rouge. . \u2018 - LOL\nUni homme est sur une piste. fl s'appelle Will\nGraham. Il a d\u00e9j\u00e0 d\u00e9mo\u00f1tr\u00e9.par le pass\u00e9,sa,\ncurieuse aptitude \u00e0-se micitre dans la peau des\n\npsychopathes, \u00e0 adopter leur .point de vue; \u00e0.\ndeviner leurs pulsions les plus secr\u00e8tes. D.\nDans cette sinistre traque, il doit rencontrer dans :\nsa prison un autre monstre :le diabolique Han-\nnibal Lecter. Pour Graham; commence une\nfente descente aux enfers, dans:les r\u00e9coins Les\n\u2018plus sombres du psychisme de ces meurtriers en\n| s\u00e9rie, au risque de s\u2019y perdre lui-m\u00eame\n\n\u2018 u FM,\n\nse",
+        "translated_text": "A series of terrifying murders shakes thei: United States. All follow the same horror ritual, all are signposted by a mysterious! red dragon. . \" - LOL Uni man is on a track. fl is called Will Graham. He has already demontrated.in the past, his, curious ability to mimic himself in the skin of the psychopaths, to adopt their .point of view; to guess their most secret impulses. D. In this sinister hunt, he must encounter in: his prison another monster: the evil Han- nibal Lecter. For Graham; begins a slot descent into the underworld, in:the corners The \u2018darkest of the psychism of these murderers in series, at the risk of losing himself' to FM, himself",
+        "predicted_genre": "Erreur API",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735941418282392400",
+        "image_path": "images\\1735941418282392400.jpg",
+        "ocr_text": "* Une s\u00e9rie de meurtres terrifiants secouc les\n\n* \u00c9tats-Unis. Tous suivent le m\u00eame rituel?\"\nd'horreur, tous sont sign\u00e9s d'un myst\u00e9rieux\":\ndragon rouge. = : 1 LP\n\nUn homme est sur une piste. Il s'appelle Wil s\n- Graham. Il a d\u00e9j\u00e0 d\u00e9montr\u00e9 par Le pass\u00e9 sa 74\n. curieuse aptitude \u00e0 se miettre'dans la peau des \u201d\n- psychopathes, \u00e0 adopter leur point de vue, \u00e0\n= deviner leurs pulsions les plus secr\u00e8tes. Ne\nDans cette sinistre traque, il doit rencontrer dans -\nsa prison un a\u00fctre monstre\u2018:le disbolique Han-\nnibal L\u00e9cter, Pour Graham, commence une\nJente descente aux enfers, dans les recoins les\u2019\nplus sombres du psychisme de ces meurtriers en\n+ s\u00e9rie, au risque de s'y perdie lui-m\u00eame...\nn\u00b0 \u00c8 DOr\u00c9a,",
+        "translated_text": "* A series of terrifying murders shook the * United States. All follow the same ritual?\" of horror, all are signed by a mysterious\": red dragon. = : 1 LP A man is on a track. His name is Wil s - Graham. He has already demonstrated in the past his 74 . curious ability to mietre in the skin of the psychopaths, to adopt their point of view, to = guess their most secret impulses. Don't In this sinister hunt, he must meet in - his prison a monster alder\u2018: the disbolic Han- nibal Lecter, For Graham, begins a jente descent into the underworld, in the darkest corners of the psychism of these murderers in + series, at the risk of losing himself there... n\u00b0 \u00c8 DOr\u00e9a,",
+        "predicted_genre": "Erreur API",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735941545402982100",
+        "image_path": "images\\1735941545402982100.jpg",
+        "ocr_text": "\u2018Une s\u00e9rie de meurtres terrifiants secouc tes\n: \u00c9tats-Unis. Tous suivent le m\u00eame rituel\nd'horreur, tous sont sign\u00e9s d'un myst\u00e9rieux 4\ndragon rouge. Le\nUn honune est sur une piste. nl s rappelle] Wii\u201d\nGraham. 11 a d\u00e9j\u00e0 d\u00e9montr\u00e9 par le pass\u00e9 sa!\ncurieuse aptitude \u00c0 se niettre dans la peau des *\n. psychopathes, \u00e0 adopter leur point de vue, \u00e0\ndeviner leurs pulsions les plus secr\u00e8tes. Je\nDans cette sinistre traque, il doit rencontrer dans\nsa prison un a\u00fctre monstre\u2018: le diabolique Han-\nnibal Lecter, Pour Graham; commence une.\nJente descente aux enfers, dans les recoins les\nplus sombres du psychisme de'ces meurtriersen.\ns\u00e9rie, EU risque de s'y perde jui-th\u00e8me.. |",
+        "translated_text": "\u2018A series of terrifying murders in the United States. All follow the same horror ritual, all are signed by a mysterious 4 red dragon. The One Honune is on a track. nl remembers] Wii\u7684 Graham. 11 has already demonstrated in the past his! curious ability to deny oneself in the skin of the * . psychopaths, to adopt their point of view, to guess their most secret impulses. I in this sinister hunt, he must meet in his prison a monster': the evil Han-Nibal Lecter, For Graham; begins a. Jente descent to the underworld, in the darkest corners of the psychism of these murderers. series, EU risk to lose itself there jui-theme..'",
+        "predicted_genre": "Thriller",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735942259870529200",
+        "image_path": "images\\1735942259870529200.jpg",
+        "ocr_text": "John Steinbeck\nDes souris et des hommes\nTraduit \u00e9e l'anglais par LE: Coindrrau\n\n2 Lennie verra Jen doigts, se cramponna aux cheveux,\n\n= L\u00e9che-moi,crintelle, Mais Lichemoi done.\nLennbe \u00e9tais afol\u00e9, Son virage se contractait, lle ve mit\nA hsler ce, de l'autre ain, il ui count La bouche et le\nmer.\n\n+ Non, Jrous en prie, wopplitil Oh, jvous en prie, ne\nfaites pas \u00e7a, Gcorpe se Bcherail.\n\nElie ne l\u00e9hattaitA\u00e9goureusement sous ses mins...\n\n= Oh, fe vouten prie, ne its pas \u00e7a supplistil Geurge\n\nva dire que j'al encore fait quelque chose de mal 11\n\nan'iwera pas soigner ls Lpine, e\n\nLe chef d'aruvre de jh Sarre Pris Kobe,\n+ L'amiti\u00e9 informe et lavincible sou\u00e9e entre Lennie, Le doux\ncoke Lanocet sut maire d\u00e9ratatriees, et 108 coquis George,\nPe\u00fbt homme ai\u00e7e, \u00e0 une brauf, une puisunce de me\u00bb, ft\nKrmet.\n\ndE)\n\nHlo RENDE2ATGEONS AMC Ti",
+        "translated_text": "John Steinbeck Mouses and men Translated English by LE: Coindrau 2 Lennie will see Jen fingers, clinging to his hair, = Lick me, write to me, But Lichemoi done. Lennbe was afoliated, His bend was contracted, He put to hsler this, from the other ain, he has to count The mouth and the sea. + No, Jrous en prie, wopplitil Oh, please, don't do this, Gcorpe se Bcherail. Elie didn't lickAgouriously under her mins... = Oh, fe vouten prie, don't its that suppressil Geurge will say that I've done something wrong 11 year'iwera not to treat ls Lpine, e The chief of the aruvre of jh Sarre Pris Kobe, + The informe friendship and lavincible sold between Lennie, The sweet coke Lanocet sut do something wrong 11 year'iwera not to cure ls Lpine, e The chief of jh Sarre Pris Kobe, + The informe, + The informe between Lennie, Lavine, Lavine",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735942356045780400",
+        "image_path": "images\\1735942356045780400.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735942356074701500",
+        "image_path": "images\\1735942356074701500.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735942381141863700",
+        "image_path": "images\\1735942381141863700.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735942452167387200",
+        "image_path": "images\\1735942452167387200.jpg",
+        "ocr_text": "George Orwell\n1984\n\u2018Troduit d\u00e9 l'englais per Ame Audheti\n\nDe tous les carrefours importants, le iuge \u00e0\n1a moustache noire vous fiuait du regard. 1 y\nen avait on sur Je mur d'en face, MG DAOTHER,\n\nla l\u00e9gende, tandis que | \u0178 l\nde regard des yeux noirs p\u00e9ri\u00e9trait Les jeux de\n\n{Winston Au foin, un helicopn\u00e8re glisa entre\nplana un moment, tele une mouche l\n\nBteue, puis repardt \u00e9umme une fl\u00e9che, dans\nun vof courbe, C'\u00e9tait une patrouille qui venait\nmettre Le nez aux Fen\u00easres des gens. Mais tes\nportance, Seule\n\ne de la l'en\u00e9e, |\n\na ce pare rar Le RUE 2 ma o\u00f9 Pad\npe Me re tre \u00cb\n&\n\n1?\n\n:\n| ce om itprenm anti |\ni\n\n1l\n\nRSS eme LU\n\n\" il\n\n| enrorcears aan SE F3",
+        "translated_text": "George Orwell 1984 \u2018Troduced from the englais per Ame Audheti Of all the important crossroads, the iuge with 1a black moustache made you look. 1 there was on I wall from opposite, MG DAOTHER, the legend, while the l of the black eyes perished The games of {Winston At hay, a helicopner glise between plana for a moment, like a fly l Bteue, then repardt summation a arrow, in a curved vof, It was a patrol that came to put The nose to the Fen\u00easres of the people. But your portance, the only e of the century, has this pare rar The RUE 2 ma where Pad pe Me re tre \u00cb & 1? :",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735942493291110900",
+        "image_path": "images\\1735942493291110900.jpg",
+        "ocr_text": "GA\\LLANI\n\nToute chose projette une ombre, +\nm\u00eame notre monde. :\n\nout petite, Olivia Price a dt d\u00e9pon\u00e9e ur Les marches de Forphetinat cb\n\ndie vit d\u00e9sormai. Incapabl\u00e9 de parler ele en sait pas moins e faire\nrespecter des autres pensionnaires. De sa m\u00e8re, il ne Kad reste plus gun\nJourral Intime reli\u00e9 de eu, plein de doalna \u00e9tranges ct marqu\u00e9 par a ob,\n\u2018docu es derniers mots ont 8 Ta scras \u00c0 Fab tant que tune approches pas\nde Gale :\n\nMs a jeune fille pe r\u00eave que d'une chose : avols ua jou. une famille, Alora,\n\u201cquand elle apprend que son once la enfin retrouv\u00e9e et l'invite \u00c0 venir vivre\ndans ke domine familial de Ga\u00eflane, Olivia n'h\u00e9site pas inc seule scemode.\nSuz place, eLe ne trouve que deux domestiques ct un cousin, Matthew = qui,\nde toute \u00e9ridence, ne veut pas delle, Ele d\u00e9couvre surtout que 108 oncls ext\nmont et enterr\u00e9 depuis phasicurs mois d\u00e9j... EDe remarque enfin que tousles\nHabitants du manoir semblent \u00e9viter comme La peste le mur qui s'\u00e9l\u00e8ve\nderri\u00e8re la propcidi\u00a3, su milieu d'une nature Mruriante. Qud mal ne dresse L\u00e0,\nau fond de ce jardin nich\u00e9 au bout du monde ? Qu'est-il vraiment arriv\u00e9 \u00e0 La\nm\u00e8re dOlivia, toutes ces ann\u00e9es plus ut ?: \u00e0 .\n\nApets avoir sc\u00e9naris\u00e9 etco-produit pour Neufix La s\u00e9rie Fit Kill inspir\u00e9e\nd'une deses nouvelles, l'autrice prodige VE Schreab rct sa plume fascinant\u00e9\netsoa talent inimitable de l'intrigue au service d'un conte gothique \u00c0 La fois\ngh\u00e7ane et supr\u00eamement \u00e9mourane Les lecteur de Neil Gaiman se plon\u00e7geront\navec d\u00e9ices dans cet ouvrage s\u00e9 d'ombre et de myst\u00e8res le pouveau petit\n\n7 ralrade de Fautrice de La Vic mie dAabfie pare;\n\n\u2014\u2014\n\n\\.",
+        "translated_text": "GAL'LANI All things projecting a shadow, and even our world. : out small, Olivia Price has dt depon\u00e9 ur The steps of Forphetinat cb die lives deormai. Unable to speak ele knows no less how to ensure respect for other inmates. From his mother, Kad remains more gun Jourral Intime bound of eu, full of strange doalna ct marked by ob, \u2018docu es last words have 8 Ta scras \u00e0 Fab so long as tune approaches not of Gale: Ms a young girl pe dreames only of one thing: avols ua jou. une famille, Alora,",
+        "predicted_genre": "Fantasy",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735942613926218700",
+        "image_path": "images\\1735942613926218700.jpg",
+        "ocr_text": "Le\n\n. Nobody Owensest un peut |\ngar\u00e7on parfaltement normal, Ou plut\u00f4t,\n\n. serait parfaltement normal s'il n'avait pas\n\nFA grandi dans un cimeti\u00e8re, \u00e9lev\u00e9 par\n\nun couple de fant\u00f4mes, prot\u00e9g\u00e9 par Silas,\n\nun \u00eatre \u00e9trange ni vivant ni mort, et ami\n\nintime d'une sorci\u00e8re br\u00fbl\u00e9e vive autrefois.\n\nMais quelqu'un va attirer Nobody au-del\u00e0\n\nde l'enceinte protectrice du cimeti\u00e8re :\n\nle meurtrier qui cherche \u00e0 l'\u00e9liminer\n\ndepuis qu'il est b\u00e9b\u00e9,\n\nSi tu savais, Nobody, comme le monde\n\ndes vivants est dangereux.\n\nL'\u00c9trange Vie de Nobody Qux\u00efti ess int roman\nenchanteur, noir magique, tendre \u00fct profond.\nLa gr\u00e2ce absolue de Neil Gaimun, ile retour apr\u00e8s\n\nson livre-culie, Coraline,\nL , 7\n\n{Ce livre d'rempont\u00e9 l\u00e0 Nenbery Medal 2009",
+        "translated_text": "The . Nobody Owensis a possible normal boy, or rather, . would be perfectly normal if he hadn't grown up in a cemetery, raised by a couple of ghosts, protected by Silas, a strange being neither alive nor dead, and intimate friend of a burned witch once alive. But someone will attract Nobody beyond the protective enclosure of the cemetery: the murderer who seeks to eliminate him since he was a baby, If you knew, Nobody, as the world of the living is dangerous. The Strange Life of Nobody Qux\u00efti Ess int enchanting, magical black, tender deep \u00fct. Neil Gaimun's absolute grace, is back after his book-cough, Coraline, L, 7 {This book reponted there Nenbery Medal 2009",
+        "predicted_genre": "Thriller",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735942801988832600",
+        "image_path": "images\\1735942801988832600.jpg",
+        "ocr_text": "ER EE EE mere RLE LE\nCHLOE ET BRANDON SONT LES ENFANTS\nDES PLUS GRANDS SUPER-H\u00c9ROS DE LA PLAN\u00c8TE.\n\nMAIS LE COSTUME N'EST-IL PAS\nTROP GRAND POUR EUX ?\n\nAutrefois, le but utime des super-h\u00e9ros ta clair : assurer je bien de La communaut\u00e9\nMais Le monde \u00e0 chang\u00e9, Et face aux nouvelles crises qu te menacent, les h\u00e9ros\nsermbient d\u00e9iommais Lrpulssants, Heureusement, certaines valeurs ne meurent pas d\n\nD\u00e9couvrez lintrigante Interpr\u00e9tation du mythe super h\u00e9ro\u00efque par Mark Milar\nV\u00fcch-Ass, Ltimotes, Kinguman : Serices Secret:} et Frank Qu\u00e9tely (AE SLor Superman,\nMEL.\n\nCu",
+        "translated_text": "BUT THE COSTUM IS NOT THROUGH GRAND FOR YOURSELF? In the past, the utime goal of superheroes is clear: to assure me well of the community But the world has changed, And in the face of the new crises that threaten you, the heroes are sermbling Lrpulsant, Luckily, certain values do not die from Discovering lintriguing Interpretation of the superheroic myth by Mark Milar V\u00fcch-Ass, Ltimotes, Kinguman : Serices Secret:} and Frank Qu\u00e9tely (AE SLor Superman, MEL. Cu",
+        "predicted_genre": "Science Fiction",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943054538168500",
+        "image_path": "images\\1735943054538168500.jpg",
+        "ocr_text": "Dans le monde o\u00f9 vit Jomas, la guerre, La pauvret\u00e9, le ch\u00f4-\nle divorce n'exitert pas, Les in\u00e9galit\u00e9s n'existent pas,\nD\u00e9sob\u00e9inunce et r\u00e9volte n'existent pas, L'harmonic r\u00e8gne\n\ndns les cellules familiales comtitu\u00e9es avec soin par le comit\u00e9\n\ndes sages. Les personnes trop g\u00e9cs, ainsi que les nouveaux-\nn\u00e9s inaptes sont s\u00e9lamgise, personne ne sait exactement ce\n, que cela veut dire. S.  .\nDans L communaut\u00e9, une seule personne d\u00e9tient v\u00e9rita-\nblement le soir : c'est le d\u00e9positaire de la m\u00e9moire, Lui seul\nsait comment \u00e9tait le monde, des g\u00e9n\u00e9rations plus t\u00f4t, quand\n1 y avait encore des animaux, quand l'oeil humain pouvait\n\nencore voir les couleurs, quand les gens jombaient amou- -\n\nDans quelques jours, Jonas aura douze ans! Au cours d'un:\nSande c\u00e9r\u00e9monie, il, se Verra attribuer, comme tous les\n\nenfants de son \u00e2ge, sa future fonction dans La communaut\u00e9.\n\n\u2026 Jens ne sait pas encore qu'il est unique. Un destin extra- -\n\nordinaire l'attend. Un destin qui peut le d\u00e9truire.\n\nCelivre 3 obtenu la Newb\u00e9ry Medal 1994,\n\nIlustration ec la couverture : \u00ab Jrela\nArroyo, 184,0, ADAGP, Par\n\nme, aquarelle d'\u00c9duando",
+        "translated_text": "In the world where Jomas lives, the war, poverty, the failure to divorce does not exist, Inequalities do not exist, Disobeinunce and revolt do not exist, The harmonic reigns the family cells combined with care by the committee of the wise. People too geeks, as well as the incompetent newborns are selamgized, no one knows exactly what this means. S. . In the community, only one person holds verita- bally at night: it is the custodian of the memory, He alone knows how the world was, generations earlier, when 1 still had animals, when the human eye could still see the colors, when people were admiring. - In a few days, Jonas will be twelve years old! During one: Sande ceremony, he, Verra will attribute, like all the children of his age, his future function in The community. ... Jens does not yet know that he is unique. An extra- - ordinary destiny awaits him. A cover that can destroy him.",
+        "predicted_genre": "Science Fiction",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943493353131200",
+        "image_path": "images\\1735943493353131200.jpg",
+        "ocr_text": "L\u00e9nine =",
+        "translated_text": "Lenin =",
+        "predicted_genre": "Science Fiction",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943565709605900",
+        "image_path": "images\\1735943565709605900.jpg",
+        "ocr_text": "Erreur : Aucun texte d\u00e9tect\u00e9.",
+        "translated_text": "Error: No text detected.",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943594756969700",
+        "image_path": "images\\1735943594756969700.jpg",
+        "ocr_text": "fe Karen Elle\nFe hs ES EN ESS\nne Pau \u00e9d,\npre r\u00e9ent du Re EE di\n\nnp pertes Mere des x\nAC is see D'inincque ce are\ni ro L'on ar\u00e9 qu'elle a ueun souvenrr. Fe\n\nPh\u00e9nom\u00e8n\nro ur un UE TEL VE\nrh IA AE  \u00e9saquEs",
+        "translated_text": "This is why it has been remembered that it has been a phenomenon of a European Union TEL VE rh IA AE \u00e9aqu\u00e9s.",
+        "predicted_genre": "Science Fiction",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943646364352000",
+        "image_path": "images\\1735943646364352000.jpg",
+        "ocr_text": "Erreur : Aucun texte d\u00e9tect\u00e9.",
+        "translated_text": "Error: No text detected.",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Incoh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943730933485500",
+        "image_path": "images\\1735943730933485500.jpg",
+        "ocr_text": "La cotiection \u00ab Les grands myst\u00e8res\nde l'arch\u00e9ologie \u00bb vous emm\u00e8ne\n\n\u00e0 la d\u00e9couverte de sites fabuleuse,\nt\u00e9moins des civilisations les Dies\nmarquantes de ce monde, sur les\ntraces des chercheurs Qu\u00e9 ont Let\nsorir de Fombre ot de FoubE\n\nteur splendeur pass\u00e9e. Richement\nMlustr\u00e9, ce ivre vous oftre un vaste\naper\u00e7u des productions artisanales\net artistiques qui ont fait La gloire de Fempirs inca. M s'aruche\naussi \u00e0 pr\u00e9senter organisation soclais et les coutumes\n\nde ce peuple, r\u00e9v\u00e9lant ves asplrations les plus profondes,\nV\u00e9ritable guide, l vous donne enfin des conseils pour visiter\nLe Machu Picchu el capter ce qui fait, encore sujourdul,\n\nson charme myst\u00e9rieux.",
+        "translated_text": "The contribution \"The great mysteries of archaeology\" takes you to the discovery of fabulous sites, witnesses of civilizations the important Dies of this world, in the footsteps of the researchers Qu\u00e9 have Let sorir de Fombre ot de Foube past splendour. Richly Mlustrated, this drunk you oftre a vast overview of the artisanal and artistic productions that have made The glory of Fempirs inca. M also arches himself to present the Soclais organization and the customs of this people, revealing the deepest asplations, True guide, I finally gives you tips to visit The Machu Picchu el capture what makes, still sujourdul, his mysterious charm.",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943826676577100",
+        "image_path": "images\\1735943826676577100.jpg",
+        "ocr_text": "mour mposibte\nentre une princese Inca et\nun officier espagnol\n\n\u00ce\n\u00ce\n{\n\nA a\n\nHs sont venus d'Espagne en traversant les mers\npour conqu\u00e9rir un empire fibuleux o\u00f9 l'or tipise\nLes temples et les palais, 170 coniquistadors men\u00e9s\npar le Capitan Pizarro contre 80 000 Incas \u00e9bahis\n\nqui n'ont pas su r\u00e9sister. Alons les Espagnols ont\n\npris le pouvoir, l'or, et se sont install\u00e9s,\n\nnya vivante.\n\nLC 2:\n\n(EST DER\n\nDe quel c\u00f4t\u00e9 va se battre l'amour ?\n\n, \u00c9g\u00e9lement chez Pichet sa \u00e0\nL\n\nMa\u00efs un conquistador, Gabriel, ct une princesse\ninca aux \u00e9tranges pouvoirs, Anamsya, sont tom\nb\u00e9s amoureux, et le destin des Incas risque d'en\n\u00eatre chang\u00e9, Anamaya veut lib\u00e9rer son peuple,\ns: Gabriel est pr\u00e9e \u00e0 quitter le sien pour voir Ana-\n\nApr\u00e8s trois ans d'occupation, les Incas d\u00e9clenchent\nl'offensive, Cette fois, ils sont arm\u00e9s, alors que Les\nEspagnols se croient toujours en terrain conquis\nL'affrontement va tenir de l'apocalypse, avc Ana\nmaya dans un camp et Gabriel dans l'autre.\n\nPrinnsse due soleil\u201d, 2.",
+        "translated_text": "Mposibte die between a princeess Inca and a Spanish officer IS { A a Hs came from Spain crossing the seas to conquer a fibulous empire where the gold tipise The temples and palaces, 170 conquistadors led by the Capitan Pizarro against 80,000 Incas \u00e9bahis who could not resist. Alons the Spanish took power, gold, and settled, nya alive. LC 2: (EST DER On which side will fight love? , At Pichet sa at L Mais a conquistador, Gabriel, ct a princess inca with strange powers, Anamsya, are fallen in love, and the fate of the Incas is likely to be changed from it, Anamaya wants to liberate his people, s: Gabriel is ready to leave his own to see Ana- After three years of occupation, the Incas trigger the offensive, This time they are armed, while the Spaniers still believe themselves in conquered land, Gabriel's will hold a confrontation in the macalya camp.",
+        "predicted_genre": "Fantasy",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735943963429789600",
+        "image_path": "images\\1735943963429789600.jpg",
+        "ocr_text": "BiL8O, COMME TOUS LES JroBntrs,\ncstun petit \u00eatre pahible qui n'aime pas\nEen \u00e9ued\u00e9rang\u00e9quandiletauble\nL'aventure lui tombe dessus comime la foudre,\n:quandi magicien Gandalf et treize nains barbus\nviennent lui parler de tr\u00e9sor, d'exp\u00e9dition p\u00e9rilleuse, * \"-\n\u00a9 etdu dragon Smaug-qu'il vaaffronter. . \u00bb\nCar Bilbo doit partiraveceux! *\n- Etle plus extraordinaire, c'est que le hobbit affronters\n\u2018sous les dangers, sans jamais perdre son humour, *\nm\u00eames'il tremblera plus dur\n\n\u2018Grnd ad dique de 1a litt\u00e9rature Fantastique moderne, Bio\n+ Le Hobbit est Le point d'entr\u00e9e dans l' univers de JRR Tollien \u00ab\ncv\u00e9siuble pr\u00e9lude 3 son chef.d'\u0153uvre, Le Sigur desanneane",
+        "translated_text": "BiL8O, AS ALL JroBntrs, cstun little pahible being who doesn't like Een euded\u00e9rangandiletauble The adventure falls on him like lightning, :when magician Gandalf and thirteen bearded dwarves come to talk to him about treasure, of perilous expedition, * \"- \u00a9 and the dragon Smaug-that he's going to face. . \u00bb Because Bilbo has to leave with them! * - And the most extraordinary is that the Hobbit face \"under the dangers, without ever losing his humor, * even he will tremble harder \u2018Grnd ad deic de 1a litt\u00e9rature Fantastique moderne, Bio + Le Hobbit is The point of entry into the universe of JRR Tollien \"preludes 3 his masterpiece, The Sigur desanneane",
+        "predicted_genre": "Fantasy",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735944055862475600",
+        "image_path": "images\\1735944055862475600.jpg",
+        "ocr_text": "HN rE\n\nPeu cosirer A\n\nA conserve a 16\u20ac 8 D Fan 98 RCE,\nA Cowon de Dr\u00c9NEEECE AC AIT",
+        "translated_text": "HN rE Candied A Candied at 16\u20ac 8 D Fan 98 RCE, A Cowon from DrENEECE AC AIT",
+        "predicted_genre": "Nonfiction",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1735991496107506000",
+        "image_path": "images\\1735991496107506000.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735991784152079400",
+        "image_path": "images\\1735991784152079400.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735991996733915100",
+        "image_path": "images\\1735991996733915100.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735992095123164300",
+        "image_path": "images\\1735992095123164300.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735992633707923900",
+        "image_path": "images\\1735992633707923900.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1735997146197505000",
+        "image_path": "images\\1735997146197505000.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736368448185750100",
+        "image_path": "images\\1736368448185750100.jpg",
+        "ocr_text": "Une s\u00e9rie de meurtres terrifiants sccouc les.\n\u00c9tats-Unis.\" Tous suivent le m\u00eame rituel\nd'horreur, tous sont sign\u00e9s d'un myst\u00e9rieux\ndr\u00e4gon rouge,\n\nUn honune est sur une piste, [fs rappelle will\nGraham. 11 4 d\u00e9j\u00e0 d\u00e9montr\u00e9 .par le pass\u00e9 sa.\ncurieuse aptitude \u00e0 \u00c0se mettre dans la peau des :\npsychopathes, \u00e0 adopter leur point CONTE\ndeviner leurs pulsions les plus secr\u00e8tes. . :\nDans certe sinistre traque, il, doit rencontrer dans \u2018\nsa prison un autre monstre : ile diabolique Hin-\nnibal Lecter. Pour\u2019 Graham, commence une\nlente descente-aux enfers, dans les r\u00e9co\u00efns les\nplus sombres du psychisme de\u2019ces meurtriers en\ns\u00e9rie, au risque de s\" sy perdre lui-m\u00eame...\"",
+        "translated_text": "A series of terrifying murders hit the United States.\" All follow the same horror ritual, all are signed by a mysterious red dr\u00e4gon, A houn is on a track, [fs recalls will Graham. 11 4 already demonstrated .in the past his. curious ability to put oneself in the skin of: psychopaths, to adopt their point CONTE guess their most secret impulses. . . : In some sinister stalks, he, must meet in his prison another monster: evil island Hin- nibal Lecter. For Graham, begins a slow descent to hell, in the darkest recoins of the psychism of these serial murderers, at the risk of losing himself...\"",
+        "predicted_genre": "Thriller",
+        "feedback": "Coh\u00e9rent"
+    },
+    {
+        "timestamp": "1736426647371676500",
+        "image_path": "images\\1736426647371676500.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736426734050372000",
+        "image_path": "images\\1736426734050372000.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736427209602400100",
+        "image_path": "images\\1736427209602400100.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736427843199076300",
+        "image_path": "images\\1736427843199076300.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736427908992117100",
+        "image_path": "images\\1736427908992117100.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736427933576938800",
+        "image_path": "images\\1736427933576938800.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736428016918543000",
+        "image_path": "images\\1736428016918543000.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736428150205813100",
+        "image_path": "images\\1736428150205813100.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736428274341980700",
+        "image_path": "images\\1736428274341980700.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736428699515641700",
+        "image_path": "images\\1736428699515641700.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736429137831636900",
+        "image_path": "images\\1736429137831636900.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736429212886567200",
+        "image_path": "images\\1736429212886567200.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736429558752524900",
+        "image_path": "images\\1736429558752524900.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736429573059701000",
+        "image_path": "images\\1736429573059701000.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    },
+    {
+        "timestamp": "1736430114484178500",
+        "image_path": "images\\1736430114484178500.jpg",
+        "ocr_text": null,
+        "translated_text": null,
+        "predicted_genre": null,
+        "feedback": null
+    }
+]

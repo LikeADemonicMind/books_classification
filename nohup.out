@@ -1,0 +1,1032 @@
+INFO:     Will watch for changes in these directories: ['C:\\Users\\Utilisateur\\Documents\\app_git']
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     Started reloader process [16168] using StatReload
+2024-12-26 23:09:02.633944: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2024-12-26 23:09:05.037199: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [16228]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     127.0.0.1:58996 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58996 - "GET /dashboard/_dash-component-suites/dash/deps/polyfill%407.v2_18_2m1735215147.12.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58997 - "GET /dashboard/_dash-component-suites/dash/deps/react%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58999 - "GET /dashboard/_dash-component-suites/dash/deps/react-dom%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59000 - "GET /dashboard/_dash-component-suites/dash/deps/prop-types%4015.v2_18_2m1735215147.8.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59001 - "GET /dashboard/_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_18_2m1735215147.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59002 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58996 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components-shared.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59000 - "GET /dashboard/_dash-component-suites/dash/dash_table/bundle.v5_2_13m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58997 - "GET /dashboard/_dash-component-suites/dash/html/dash_html_components.v2_0_20m1735215148.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59000 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58997 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59000 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58997 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59001 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58996 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58996 - "GET /dashboard/_favicon.ico?v=2.18.2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59002 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59000 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59006 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59006 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59006 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59009 - "GET /docs/ HTTP/1.1" 307 Temporary Redirect
+INFO:     127.0.0.1:59009 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59009 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52192 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52192 - "GET /openapi.json HTTP/1.1" 200 OK
+WARNING:  StatReload detected changes in 'app.py'. Reloading...
+INFO:     127.0.0.1:52587 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52587 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:52587 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52587 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52890 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52947 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57653 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57988 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58033 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58048 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58065 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58112 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58114 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58150 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58186 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58190 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58229 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58263 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55575 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55576 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55576 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55577 - "GET / HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55599 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55599 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55600 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55613 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55613 - "GET /openapi.json HTTP/1.1" 200 OK
+2025-01-01 15:55:10.606115: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 15:55:12.262776: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [12400]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+Erreur lors de la génération de la matrice de confusion : the JSON object must be str, bytes or bytearray, not NoneType
+INFO:     127.0.0.1:54258 - "GET /trainings HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54258 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+2025-01-01 16:00:37.373819: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 16:00:38.934466: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [17448]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:103: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:54298 - "GET /trainings HTTP/1.1" 200 OK
+2025-01-01 16:08:34.953879: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 16:08:36.888571: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [9896]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:103: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:54369 - "GET /trainings HTTP/1.1" 200 OK
+2025-01-01 16:16:22.472027: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 16:16:24.028537: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [12560]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:103: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:54444 - "GET /trainings HTTP/1.1" 200 OK
+2025-01-01 16:23:05.807727: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 16:23:07.339417: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [6784]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:54480 - "GET /training_logs_visual HTTP/1.1" 200 OK
+2025-01-01 16:34:23.783325: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-01 16:34:25.394074: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [5024]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:54518 - "GET /training_logs_visual HTTP/1.1" 200 OK
+2025-01-02 12:46:49.060050: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-02 12:46:51.232298: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [15844]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:50874 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50874 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:50958 - "GET /training_logs_visual HTTP/1.1" 200 OK
+2025-01-02 13:21:22.266483: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-02 13:21:23.911307: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [9256]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:51141 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52684 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52687 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52753 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52759 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52828 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52831 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52910 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52913 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52944 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52944 - "GET /dashboard/_dash-component-suites/dash/deps/polyfill%407.v2_18_2m1735215147.12.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52945 - "GET /dashboard/_dash-component-suites/dash/deps/react%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52947 - "GET /dashboard/_dash-component-suites/dash/deps/prop-types%4015.v2_18_2m1735215147.8.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52946 - "GET /dashboard/_dash-component-suites/dash/deps/react-dom%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52948 - "GET /dashboard/_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_18_2m1735215147.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52944 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components-shared.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52949 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52946 - "GET /dashboard/_dash-component-suites/dash/dash_table/bundle.v5_2_13m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52945 - "GET /dashboard/_dash-component-suites/dash/html/dash_html_components.v2_0_20m1735215148.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52946 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52945 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52945 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52944 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52948 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52946 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52949 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52947 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53017 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53028 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53053 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53114 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53123 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53162 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53176 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53242 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53245 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53276 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53308 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53317 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53381 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53390 - "POST /predict_genre/ HTTP/1.1" 200 OK
+2025-01-03 13:46:56.198838: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 13:46:58.585171: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [16640]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:50683 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50739 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50742 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50786 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50859 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50864 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52189 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52214 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52219 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52743 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52746 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52747 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52748 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52751 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52863 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52866 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52917 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52920 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53042 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53045 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53174 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53177 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53217 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53223 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55068 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55068 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55068 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55069 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55069 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55072 - "GET /dashboard/_favicon.ico?v=2.18.2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55068 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55073 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55070 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55069 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55071 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55129 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55134 - "POST /predict_genre/ HTTP/1.1" 200 OK
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:55140 - "GET /training_logs_visual?date=2025-01-01 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55145 - "GET /training_logs_visual?date=2023-12-31 HTTP/1.1" 404 Not Found
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:104: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:55152 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55152 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+INFO:     127.0.0.1:55170 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55175 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55193 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55193 - "GET /openapi.json HTTP/1.1" 200 OK
+2025-01-03 21:27:48.143770: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 21:27:50.312736: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [19324]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55276 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55276 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55289 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55294 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55414 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55419 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55425 - "POST /predict_genre/ HTTP/1.1" 200 OK
+2025-01-03 21:39:00.907228: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 21:39:02.485560: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [19276]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55457 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55457 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55475 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55480 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55486 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+2025-01-03 21:41:49.375705: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 21:41:51.035489: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [16752]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55666 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55671 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:55676 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56152 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56235 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56240 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:56245 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56250 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56255 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+2025-01-03 22:51:01.543193: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 22:51:03.233406: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [19576]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:56291 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56291 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56303 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56308 - "POST /predict_genre/ HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:56314 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56319 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56324 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+2025-01-03 22:52:31.476471: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-03 22:52:33.340784: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [12972]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:56366 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56366 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56376 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56381 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:56386 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56391 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56396 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:56456 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:56503 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56673 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56770 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56797 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56853 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56937 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57028 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57129 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57165 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57190 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57233 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57275 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57339 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57404 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57445 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57707 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57712 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57717 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57722 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57727 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:57786 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57791 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57797 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57802 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57807 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:57876 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57881 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57886 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57892 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57897 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:57973 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57978 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:57983 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57988 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:57993 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58087 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58092 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58097 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58102 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58107 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58180 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58185 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58190 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58195 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58200 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58372 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58377 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58382 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58387 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58392 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:58518 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /dashboard/assets/style.css?m=1735992617.7326105 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58555 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58519 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58555 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58519 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58557 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58558 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58556 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:58559 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59613 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59618 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59623 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59628 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59633 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+2025-01-08 16:19:00.431472: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-08 16:19:02.202365: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [13388]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     127.0.0.1:55381 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55381 - "GET /dashboard/assets/style.css?m=1735997142.3179777 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55382 - "GET /dashboard/_dash-component-suites/dash/deps/polyfill%407.v2_18_2m1735215147.12.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55383 - "GET /dashboard/_dash-component-suites/dash/deps/react%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55384 - "GET /dashboard/_dash-component-suites/dash/deps/react-dom%4016.v2_18_2m1735215147.14.0.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55385 - "GET /dashboard/_dash-component-suites/dash/dash-renderer/build/dash_renderer.v2_18_2m1735215147.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55386 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55383 - "GET /dashboard/_dash-component-suites/dash/dcc/dash_core_components-shared.v2_14_3m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55381 - "GET /dashboard/_dash-component-suites/dash/deps/prop-types%4015.v2_18_2m1735215147.8.1.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55382 - "GET /dashboard/_dash-component-suites/dash/html/dash_html_components.v2_0_20m1735215148.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55384 - "GET /dashboard/_dash-component-suites/dash/dash_table/bundle.v5_2_13m1735215147.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55386 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55382 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55386 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55382 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55381 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55383 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55381 - "GET /dashboard/_favicon.ico?v=2.18.2 HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55384 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55386 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55685 - "GET /docs HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55685 - "GET /openapi.json HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55773 - "GET /dashboard/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55773 - "GET /dashboard/assets/style.css?m=1735997142.3179777 HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55773 - "GET /dashboard/_dash-layout HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55774 - "GET /dashboard/_dash-dependencies HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55774 - "POST /dashboard/_dash-update-component HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55773 - "GET /dashboard/_dash-component-suites/dash/dcc/async-datepicker.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55775 - "GET /dashboard/_dash-component-suites/dash/dcc/async-graph.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55777 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-highlight.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55778 - "GET /dashboard/_dash-component-suites/dash/dash_table/async-table.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:55776 - "GET /dashboard/_dash-component-suites/plotly/package_data/plotly.min.js HTTP/1.1" 304 Not Modified
+INFO:     127.0.0.1:56730 - "POST /predict_genre/ HTTP/1.1" 200 OK
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:56963 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56963 - "GET /favicon.ico HTTP/1.1" 404 Not Found
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:148: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:57906 - "GET /training_logs_visual HTTP/1.1" 200 OK
+2025-01-09 13:14:24.306960: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-09 13:14:26.183633: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [24132]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+INFO:     Started server process [18628]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+INFO:     Started server process [24996]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+Scheduler started
+INFO:     127.0.0.1:58074 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-vINFO:     127.0.0.1:58136 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58141 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58146 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58151 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58156 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58251 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58256 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58261 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58266 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58271 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58334 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58339 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58344 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58349 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58354 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58477 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58482 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58487 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58492 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58497 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58592 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58597 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58602 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58607 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58612 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58661 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58666 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58671 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58676 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58681 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58726 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58731 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58736 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58741 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58746 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58799 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58804 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58809 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58814 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58819 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58881 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58886 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58891 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58896 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58901 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:58957 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58962 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:58967 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58972 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58977 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:59062 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59067 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59072 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59077 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59082 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+ Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58101 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58102 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+INFO:     Started server process [24712]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+Scheduler started
+INFO:     127.0.0.1:58161 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58166 - "POST /capture HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58171 - "GET /processing/dummy_timestamp HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58176 - "GET /process_data/dummy_timestamp HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58181 - "GET /result/dummy_timestamp HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58187 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58188 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58189 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58190 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58194 - "GET / HTTP/1.1" 500 Internal Server Error
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\protocols\http\h11_impl.py", line 403, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\proxy_headers.py", line 60, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\uvicorn\middleware\asgi2.py", line 14, in __call__
+    instance = self.app(scope)
+               ^^^^^^^^^^^^^^^
+TypeError: Flask.__call__() missing 1 required positional argument: 'start_response'
+INFO:     127.0.0.1:58195 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+INFO:     Started server process [7340]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Scheduler started
+INFO:     127.0.0.1:58239 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58239 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:58276 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58281 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58286 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58291 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58296 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58301 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58306 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58359 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58364 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58369 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58374 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58379 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58384 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58389 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58502 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58507 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58512 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58517 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58522 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58527 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58532 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58617 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58622 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58627 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58632 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58637 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58642 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58647 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58686 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58691 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58696 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58701 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58706 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58711 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58716 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58751 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58756 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58761 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58766 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58771 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58776 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58781 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58824 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58829 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58834 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58839 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58844 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58849 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58854 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58906 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58911 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58916 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58921 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58926 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58931 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58936 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:58982 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58987 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:58992 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58997 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59002 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59007 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59012 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59087 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59092 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59097 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59102 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59107 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59112 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59117 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     Started server process [19652]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Scheduler started
+INFO:     127.0.0.1:59216 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59216 - "GET /favicon.ico HTTP/1.1" 500 Internal Server Error
+INFO:     127.0.0.1:59251 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59256 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59261 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59266 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59271 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59276 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59281 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59319 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59324 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59329 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59334 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59339 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59344 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59349 - "GET / HTTP/1.1" 401 Unauthorized
+ main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:59211 - "GET /training_logs_visual HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59225 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59230 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59235 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59240 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59245 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:59294 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59299 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59304 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59309 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59314 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     Started server process [16800]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Scheduler started
+INFO:     127.0.0.1:59437 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59442 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59447 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59452 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59457 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59462 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59467 - "GET / HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59501 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59506 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59511 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59516 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59521 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59526 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59531 - "GET / HTTP/1.1" 401 Unauthorized
+7.0.0.1:59427 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59432 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     127.0.0.1:59476 - "POST /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59481 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59486 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59491 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59496 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+2025-01-09 14:41:17.174169: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+INFO:     Started server process [26224]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+Scheduler started
+INFO:     127.0.0.1:59642 - "GET / HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59647 - "POST /capture HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59652 - "GET /processing/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59657 - "GET /process_data/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59662 - "GET /result/dummy_timestamp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59667 - "POST /result/dummy_timestamp HTTP/1.1" 302 Found
+INFO:     127.0.0.1:59672 - "GET / HTTP/1.1" 401 Unauthorized
+T /predict_genre/ HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59622 - "POST /predict_genre/ HTTP/1.1" 400 Bad Request
+INFO:     127.0.0.1:59627 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59632 - "POST /predict_genre/ HTTP/1.1" 401 Unauthorized
+INFO:     127.0.0.1:59637 - "POST /predict_genre/ HTTP/1.1" 422 Unprocessable Entity
+INFO:     Started server process [7848]
+INFO:     Waiting for application startup.
+INFO:     ASGI 'lifespan' protocol appears unsupported.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+t variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-01-09 14:42:10.027934: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+WARNING:tensorflow:From C:\Users\Utilisateur\anaconda3\envs\pco\Lib\site-packages\tf_keras\src\losses.py:2976: The name tf.losses.sparse_softmax_cross_entropy is deprecated. Please use tf.compat.v1.losses.sparse_softmax_cross_entropy instead.
+
+INFO:     Started server process [26288]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://0.0.0.0:29000 (Press CTRL+C to quit)
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+C:\Users\Utilisateur\Documents\app_git\api_lm_svc.py:144: UserWarning:
+
+Starting a Matplotlib GUI outside of the main thread will likely fail.
+
+INFO:     127.0.0.1:59683 - "GET /training_logs_visual HTTP/1.1" 200 OK

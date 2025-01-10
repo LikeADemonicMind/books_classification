@@ -1,0 +1,10 @@
+Flask
+torch
+transformers
+joblib
+sentence-transformers
+opencv-python
+pytesseract
+numpy
+sentencepiece
+uvicorn

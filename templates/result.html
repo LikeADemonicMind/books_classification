@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Résultat</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+        .result-container {
+            margin: 50px auto;
+            padding: 20px;
+            max-width: 600px;
+            background-color: white;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+        }
+        .feedback-btn {
+            margin: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container result-container text-center">
+        <h1>Résultat du Traitement</h1>
+        <p><strong>OCR :</strong> {{ ocr_text }}</p>
+        <p><strong>Traduction :</strong> {{ translated_text }}</p>
+        <h3 class="mt-4">Genre Prédit :</h3>
+        <h2 class="text-primary">{{ genre }}</h2>
+        <hr>
+        <form method="post" action="{{ url_for('result', timestamp=timestamp) }}">
+            <h4 class="mb-3">Est-ce cohérent ?</h4>
+            <button type="submit" name="feedback" value="Cohérent" class="btn btn-success feedback-btn">Cohérent</button>
+            <button type="submit" name="feedback" value="Incohérent" class="btn btn-danger feedback-btn">Incohérent</button>
+        </form>
+    </div>
+</body>
+</html>
