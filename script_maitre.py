@@ -3,12 +3,14 @@ import subprocess
 import pandas as pd
 import psycopg2
 from psycopg2.extras import execute_values
+from dotven import load_dotenv
+load_dotenv(dotenv_path)
 
 # Configuration de la base PostgreSQL
 DB_CONFIG = {
     "dbname": "postgres",
     "user": "postgres",
-    "password": "e3Oji2ChrCZjLc43",
+    "password": os.getenv("DB_PASSWORD"),
     "host": "db.boiayreqovzmageqecos.supabase.co",
     "port": "5432"
 }
